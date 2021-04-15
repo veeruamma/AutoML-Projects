@@ -1,2 +1,2 @@
 # AutoML-Projects
-Projects worked on AutoML using available libraries
+AutoML examples implememted to understand the it's features using python automl libraries such as EvalML
